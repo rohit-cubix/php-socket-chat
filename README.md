@@ -21,9 +21,13 @@ php -f /YOUR-WORKING-DIRECTORY/server.php
 
 open your chat url on your browser by "http://YOUR-DOMAIN.com/YOUR-WORKIN-DIRECTORY/index.php"
 
-user following credentials for login:-
-1) User name : admin    2)  User name : user      3)  User name : test
-    Password : admin         Password : user           Password : test   
+use following credentials for login on multiple browser window:-
+
+1) User name -: admin AND Password -: admin             
+    
+2) User name -: user AND Password -: user
+
+3) User name -: test AND Password -: test 
     
 Enjoy the chat.
 
